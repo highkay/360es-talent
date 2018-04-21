@@ -1,44 +1,34 @@
-STRML.net
+招募令
 =========
 
-Samuel Reed
-CTO, BitMEX (The Bitcoin Mercantile Exchange)
-Full-Stack / NodeJS / DevOps
-
-Contact
+方向
 -------
 
-* sam at bitmex dot com
-* samuel.trace.reed at gmail dot com
-* STRML on irc.freenode.net
-* @STRML_ on Twitter
+SDN，市场还缺少成功产品
 
-Projects
+团队
 --------
 
-* www.BitMEX.com
-* www.Securesha.re
-* www.Tixelated.com
-* www.BrightestYoungThings.com
-and of course...
-* www.strml.net
+核心成员均为创业公司CTO/总监，精英团队（20人）
 
-Open Source
+文化
 -----------
 
-* Babel
-* React-Grid-Layout
-* React-LocalStorage
-* React-Router-Component
-* React-Resizable
-* React-Draggable
-* OpenBazaar
-* JSXHint
-* BTChip-Signing-Tools
-* TextFit
-* Imgur-to-GFYcat
-* backbone.queryRouter
-* backbone.layoutManager
-* Mongoose-Filter-Denormalize
+严格，开放，开源，创业
 
+技术
+-----------
 
+容器，Devops，Java，Kotlin，Golang，Rust
+
+收益
+-----------
+
+成长，成功，市场“领先”，成功“红包”
+
+负责人
+-----------
+
+左文建 zuowenjian@360.net
+
+![](./img/we-need-you.jpg)

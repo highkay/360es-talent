@@ -1,15 +1,13 @@
 /**
  *
- * Hey. My name's Samuel Reed. I'm CTO of BitMEX.com and frequent
- * open source contributor.
+ * Hi，我们是360企业安全SNC团队，我们是专门搞技术的。
+ * 不信？
+ * 现在秀给你看！
  *
- * I build interactive websites.
- *
- * How about some live coding?
  */
 
 /**
- * Let's begin. We start by animating... well, everything.
+ * 先来点动画。
  */
 
 * {
@@ -17,10 +15,7 @@
 }
 
 /**
- * That didn't do much. But you'll see.
- *
- * Black on white is really boring,
- * so let's do something about it.
+ * 白底黑字太单调了，我们换个底色先。
  */
 
 html {
@@ -28,19 +23,18 @@ html {
 }
 
 /***
- * Hold on...
+ * 等一下。
  */
 
-pre, a {
+pre,
+a {
   color: white;
 }
 
 /**
- * That's better. Sorry about your eyes.
+ * 现在好点了。
  *
- * Working in this big empty space is tough.
- *
- * I'm going to make a nice area for us to work in.
+ * 既然要搞技术，还是先要把界面整熟悉点。
  */
 
 pre:not(:empty) {
@@ -50,16 +44,15 @@ pre:not(:empty) {
   max-height: 44.6%;
   width: 49%;
   font-size: 14px;
-  font-family: monospace;
+  font-family: consolas;
   padding: 10px 10px 20px;
-  box-shadow: -4px 4px 2px 0 rgba(0,0,0,0.3);
+  box-shadow: -4px 4px 2px 0 rgba(0, 0, 0, 0.3);
   white-space: pre-wrap;
   outline: 0;
 }
 
 /**
- * Okay. We're going to start filling up the screen.
- * Let's get ready to do some work.
+ * 一切就绪，让我们造起来！
  */
 
 #style-text {
@@ -68,20 +61,31 @@ pre:not(:empty) {
 }
 
 /**
- * This is good, but all the text is white!
- * Let's make it even more readable.
+ * 还不错吧，不过文字都是白色的太Low了，程序员最爱的主题来了，别眨眼~
  */
 
-.comment       { color: #857F6B; font-style: italic; }
-.selector      { color: #E69F0F; }
-.selector .key { color: #64D5EA; }
-.key           { color: #64D5EA; }
-.value         { color: #BE84F2; }
-.value.px      { color: #F92772; }
+.comment {
+  color: #857f6b;
+  font-style: italic;
+}
+.selector {
+  color: #e69f0f;
+}
+.selector .key {
+  color: #64d5ea;
+}
+.key {
+  color: #64d5ea;
+}
+.value {
+  color: #be84f2;
+}
+.value.px {
+  color: #f92772;
+}
 
 /**
- * Now we're getting somewhere.
- * Time to get a little perspective.
+ * 再来点透视效果？
  */
 
 body {
@@ -95,11 +99,11 @@ body {
 }
 
 /**
- * So, let's talk projects. That's why you're here, right?
- * I can't imagine you'd come just to see the pretty colors.
+ * 现在让我们来谈谈我们的招募令，相信你不是来这里看热闹的：）
  */
 
 pre:not(#style-text) {
   -webkit-transform: rotateY(10deg);
   -webkit-transform-origin: left;
+  max-height: 94.5%;
 }
